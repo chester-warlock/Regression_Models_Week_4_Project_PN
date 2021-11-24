@@ -1,6 +1,6 @@
 ---
 title: "Peer-graded Assignment: Regression Models Course Project"
-author: "Pranay Sarkar"
+author: "Pranav Narula"
 output:
   pdf_document:
     fig_height: 7
